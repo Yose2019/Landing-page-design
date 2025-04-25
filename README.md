@@ -1,5 +1,6 @@
-# Restaurant-Website
-Restaurant website using only html
+# Project
+Landing page design using html and css
 
 ## Project Requirements
 - HTML
+- CSS
