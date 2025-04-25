@@ -1,5 +1,5 @@
 # Restaurant-Website
 Restaurant website using only html
 
-##Project requirements
--HTML
+## Project Requirements
+- HTML
